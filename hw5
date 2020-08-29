@@ -1,0 +1,30 @@
+#!/bin/bash
+
+
+
+#name=tea
+#echo " The word $name Containe ${#name} character "
+#echo $((2#111))
+
+#colors= " Red Black White "
+
+#for col in $colors
+
+#do
+#       echo $col
+#done
+
+
+#let "y=((x=20, 10/2))"
+#echo $y
+
+
+#var=UPErCasSes
+#echo ${var,,}
+
+
+let val=500/2
+
+val2="$val"
+
+echo $val2
